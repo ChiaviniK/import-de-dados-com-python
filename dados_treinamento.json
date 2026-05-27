@@ -1,0 +1,44 @@
+{
+  "company_records": {
+    "metadata": {
+      "export_date": "2026-05-27",
+      "source": "Legacy_HR_System"
+    },
+    "employees": [
+      {
+        "emp_id": "001",
+        "personal_info": { "name": "Ana Silva", "age": 28 },
+        "job_details": { "department": "Data Science", "salary": 6500.00 },
+        "contact": { "email": "ana.silva@email.com", "phone": "11999999999" }
+      },
+      {
+        "emp_id": "002",
+        "personal_info": { "name": "Carlos Santos", "age": null },
+        "job_details": { "department": "data science", "salary": "7200,50" }
+      },
+      {
+        "emp_id": "003",
+        "personal_info": { "name": "Marcos Oliveira", "age": -5 },
+        "job_details": { "department": "Engineering", "salary": null },
+        "contact": { "email": "marcos_oliveira_sem_dominio" }
+      },
+      {
+        "emp_id": "004",
+        "personal_info": { "name": "Beatriz Costa", "age": 35 },
+        "job_details": { "department": "  Engineering  ", "salary": "R$ 8000.00" }
+      },
+      {
+        "emp_id": "005",
+        "personal_info": { "name": "João Pereira", "age": 999 },
+        "job_details": { "department": "Environment", "salary": 4500.00 },
+        "contact": { "phone": "N/A" }
+      },
+      {
+        "emp_id": "006",
+        "personal_info": { "name": "Fernanda Lima", "age": 32 },
+        "job_details": { "department": "ENVIRONMENT", "salary": "4800" },
+        "contact": { "email": "fernanda.l@email.com", "phone": "(19) 98888-7777" }
+      }
+    ]
+  }
+}
