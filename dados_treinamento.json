@@ -1,10 +1,4 @@
-{
-  "company_records": {
-    "metadata": {
-      "export_date": "2026-05-27",
-      "source": "Legacy_HR_System"
-    },
-    "employees": [
+"employees": [
       {
         "emp_id": "001",
         "personal_info": { "name": "Ana Silva", "age": 28 },
